@@ -1,0 +1,15 @@
+{
+  "name": "starter_template",
+  "version": "1.0.0",
+  "description": "Starter project for Typescript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "author": "Rob McBryde",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
